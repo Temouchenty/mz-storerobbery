@@ -10,6 +10,10 @@ By Mr_Zain#4139
 - Configured to function with standard qb-core notifications and oKoKNotify
 - Configured to function with mz-skills or independently. 
 
+## PREVIEW
+
+[![mz-storerobbery](https://i.imgur.com/hTNtdFv.png)](https://www.youtube.com/watch?v=OcUNtN60X3I "mz-storerobbery - a qb-storerobbery fork for FiveM by Mr_Zain#4139")
+
 ## DEPENDENCIES
 
 NOTE: You should have each of the dependencies other than qb-lock and mz-skills as part of a conventional qb-core install.
