@@ -3,11 +3,11 @@
 By Mr_Zain#4139
 
 - Outward file name changed to mz-storerobbery to track developments on forkline - all credit to Kakarot and QB-Core - this is a qb-core base script and all internal functions retain qb-storerobbery designations.
-- A varied take on qb-storerobberies with a focus on RP servers. Removed stickynote keypad function and replaced with mhacking in connection with mz-usbhacks (can be changed if you are not using mz-skills and particularly the "Hacking" skill.
-- Hack is harder at lower XP levels and becomes easier as player gains XP in Hacking.
+- A varied take on qb-storerobberies with a focus on RP servers. Removed stickynote keypad function and replaced with mhacking in connection with mz-usbhacks (can be changed if you are not using mz-skills and particularly the "Hacking" skill).
+- Hack is harder at lower XP levels and becomes easier as player gains XP in "Hacking".
 - Progressbars added to register, safe and alcohol safe components to slow player down giving time for police response and RP between police and criminals.
 - Substitutes "dirtymoney" for "markedbills".
-- Configured to function with standard qb-core notifications and oKoKNotify
+- Configured to function with standard qb-core notifications and oKoKNotify.
 - Configured to function with mz-skills or independently. 
 
 ## PREVIEW
